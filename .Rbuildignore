@@ -3,3 +3,6 @@
 ^\.travis\.yml$
 ^\.gitignore$
 
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
